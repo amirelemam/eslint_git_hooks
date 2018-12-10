@@ -1,3 +1,3 @@
-const lib = require('./lib');
+const lib = require("./lib");
 
-lib.t(2, 2);
+lib.buggyFunction(2, 2);
