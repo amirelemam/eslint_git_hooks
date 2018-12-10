@@ -1,0 +1,17 @@
+{
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaVersion": 2017,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+          }
+    },
+    "rules": {
+        "no-undef": 2
+    },
+    "env": {
+        "node": true,
+        "es6": true 
+    }
+}
