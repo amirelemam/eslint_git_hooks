@@ -1,6 +1,7 @@
 ## ESlint + Git Hooks
 
 This project has the basic config for ESLint with ES6. You can configure it to be used in combination with Git Hooks.
+By doing so, every time you commit changes to Git, Git Hooks will run ESLint and, if any syntax error is found, ESLint will accuse it and your changes won't be committed to the Git repository.
 
 ### Instalation
 
