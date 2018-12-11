@@ -66,7 +66,7 @@ $ mv .git/hooks/precommit.sample .git/hooks/precommit
 
 ### Usage
 
-Every time you commit, git hooks will automatically run eslint.
+Every time you commit, git hooks will automatically run ESLint.
 Usual workflow:
 
 1. Change file `/path/to/file/file.js`
