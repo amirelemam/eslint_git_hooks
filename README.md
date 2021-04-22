@@ -86,6 +86,10 @@ $ git commit -m "Your commit message here"
 
 If there's any syntax error, ESLint will accuse it and won't let you commit your changes to the Git repository.
 
+### Tutorial
+
+[Medium[(https://amirelemam.medium.com/commit-better-with-git-hooks-803a2814b36b)
+
 ### License
 
 These files are licensed under the [MIT License](LICENSE)
